@@ -1,4 +1,20 @@
 # MealMe
 
-MealMe is a web application that helps users find restaurants based on their location and price range preferences. The program uses the Yelp REST API to fetch restaurant data and the user either likes, dislikes, or super likes a restaurant. In the end, the user is matched with their preferred restaurant based on their previous selections. 
+The MealMe website curates a matched restaurant based on the user's location, preference price range, and their choices when swiping through the different restaurant profiles. This website is intended to help an indecisive user to choose a restaurant that they should eat and save time on their end. After the user inputs their location and price range choice, they go through a series of profiles and select the four different icons that resembles dislike, like, super-like, and whether they are ready to be matched, and if they are they click the watermelon icon. After going through all the profiles, the algorithm calculates and outputs their matched dining location based on their previous inputs.
 
+Getting Started:
+
+In order to run the code, input the following command in the User Terminal
+open -na Google\ Chrome --args --user-data-dir=/tmp/temporary-chrome-profile-dir --disable-web-security
+Make sure have Node.js installed
+Have access to npm commands
+
+Download all files, dependencies, and libraries
+
+Run the following command in the ..meal_mates/ directory:
+
+npm start
+Make sure that the local host is ran in the open-access Chrome browser
+
+Have fun dating those restaurants!
+Project Description:
