@@ -5,11 +5,14 @@ The MealMe website curates a matched restaurant based on the user's location, pr
 Getting Started:
 
 In order to run the code, input the following command in the User Terminal
-open -na Google\ Chrome --args --user-data-dir=/tmp/temporary-chrome-profile-dir --disable-web-security
-Make sure have Node.js installed
-Have access to npm commands
 
 Download all files, dependencies, and libraries
+
+Make sure have Node.js installed
+
+open -na Google\ Chrome --args --user-data-dir=/tmp/temporary-chrome-profile-dir --disable-web-security
+
+Have access to npm commands
 
 Run the following command in the ..meal_mates/ directory:
 
