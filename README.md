@@ -13,6 +13,7 @@ Download all files, dependencies, and libraries
 
 Run the following command in the ..meal_mates/ directory:
 
+open -na Google\ Chrome --args --user-data-dir=/tmp/temporary-chrome-profile-dir --disable-web-security
 npm start
 Make sure that the local host is ran in the open-access Chrome browser
 
