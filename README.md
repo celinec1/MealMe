@@ -16,9 +16,10 @@ Have access to npm commands
 
 Run the following command in the ..meal_mates/ directory:
 
-open -na Google\ Chrome --args --user-data-dir=/tmp/temporary-chrome-profile-dir --disable-web-security
-npm start
-Make sure that the local host is ran in the open-access Chrome browser
+1) open -na Google\ Chrome --args --user-data-dir=/tmp/temporary-chrome-profile-dir --disable-web-security
 
-Have fun dating those restaurants!
-Project Description:
+2) npm start
+
+* Make sure that the local host is ran in the open-access Chrome browser
+
+
