@@ -20,6 +20,6 @@ Run the following command in the ..meal_mates/ directory:
 
 2) npm start
 
-* Make sure that the local host is ran in the open-access Chrome browser
+Make sure that the local host is ran in the open-access Chrome browser!
 
 
